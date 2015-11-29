@@ -16,7 +16,7 @@ Source0:	https://pypi.python.org/packages/source/d/docopt/%{module}-%{version}.t
 URL:		http://docopt.org/
 BuildRequires:	rpm-pythonprov
 # if py_postclean is used
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 # when using /usr/bin/env or other in-place substitutions
 #BuildRequires:	sed >= 4.0
 %if %{with python2}
