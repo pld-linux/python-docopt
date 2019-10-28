@@ -8,7 +8,7 @@
 Summary:	Pythonic argument parser, that will make you smile
 Name:		python-%{module}
 Version:	0.6.2
-Release:	7
+Release:	8
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/d/docopt/%{module}-%{version}.tar.gz
