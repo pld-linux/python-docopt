@@ -9,7 +9,7 @@ Summary:	Pythonic argument parser, that will make you smile
 Summary(pl.UTF-8):	Przyjemny pythonowy parser argumentów
 Name:		python-%{module}
 Version:	0.6.2
-Release:	12
+Release:	13
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/docopt/
